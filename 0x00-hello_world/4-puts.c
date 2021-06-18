@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * puts message
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
