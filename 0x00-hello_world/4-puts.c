@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main function, receives no arguments
- * Function that prints a message
- * return does not return values
+ * main - Entry point
+ * puts message
+ * Return 0
  */
 int main(void)
 {
