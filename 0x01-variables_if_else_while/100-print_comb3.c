@@ -6,10 +6,10 @@
 */
 int main(void)
 {
-int numR = 49;
-int numL = 48;
+int numR ;
+int numL;
 int minL = 48;
-for (numL; numL <= 57; numL++)
+for (numL = 48; numL <= 57; numL++)
 {
 for (numR = minL++; numR <= 57; numR++)
 {
