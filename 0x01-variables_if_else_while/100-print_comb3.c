@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-int numR ;
+int numR;
 int numL;
 int minL = 48;
 for (numL = 48; numL <= 57; numL++)
