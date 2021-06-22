@@ -1,12 +1,16 @@
 #include "holberton.h"
-/* main: Entry point
+
+/** main: Entry point
 *Return: 0
-*/
+**/
+
 int main(void) {
 char holberton[] = "Holberton";
 int msg;
 for (msg = 0; msg <= 8; msg++)
+{
 _putchar(holberton[msg]);
+}
 _putchar('\n');
 return (0);
 }
