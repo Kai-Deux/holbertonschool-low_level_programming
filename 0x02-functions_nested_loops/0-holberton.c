@@ -1,10 +1,10 @@
 #include "holberton.h"
 
 /**
- * main - Entry point
- *
- * Description: Prints Holberton, followed by a new line
- * Return: 0
+* main - Entry point
+*
+* Description: Prints Holberton, followed by a new line
+* Return: 0
  */
 
 int main(void)
