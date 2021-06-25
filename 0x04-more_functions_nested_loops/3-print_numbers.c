@@ -1,12 +1,10 @@
 #include "holberton.h"
 
 /**
- * print_numbers - prints numbers from 0 to 9
- * void: No Input Parameter
- *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
- */
+  * print_numbers -  prints the numbers, from 0 to 9.
+  *
+  * Return: 0
+  */
 
 void print_numbers(void)
 {
