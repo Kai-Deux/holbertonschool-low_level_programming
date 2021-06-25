@@ -1,10 +1,10 @@
 #include "holberton.h";
 
 /**
-  * _isdigit- Check if c is a digit
-  * @c: The number to be checked
+  * _isdigit - Check if c is a digit
+  * @c: parameter in ASCII
   *
-  * Return: 1 for upper letter or 0 for any else
+  * Return: 1 if c is a digit or 0 otherwise
   */
 
 int  _isdigit(int c)
