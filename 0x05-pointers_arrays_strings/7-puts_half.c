@@ -1,21 +1,19 @@
 #include "holberton.h"
+
 /**
- * puts_half - Entry point.
- * @str: Variable which holds the string.
+ * puts_half - Entry point
+ * @str: char array string type
  *
- * Return: 0.
  */
+
 void puts_half(char *str)
 {
-	int c;
 	int i;
 
-	while (str[c] != '\0')
-	{
-		c++;
-	}
-	c--;
-	for (i = c / 2 + 1; i <= c; i++)
+	for (i = 0; str[i] != '\0'; i++)
+
+	i++;
+	for (i /= 2; str[i] != '\0'; i++)
 	{
 		_putchar(str[i]);
 	}
