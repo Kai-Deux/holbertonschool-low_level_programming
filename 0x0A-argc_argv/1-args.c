@@ -1,9 +1,4 @@
 #include <stdio.h>
-#define POSSIBLY_UNUSED(var) \
-	do                   \
-	{                    \
-		(void)(var); \
-	} while (0)
 
 /**
  * main - program that prints its name.
@@ -12,10 +7,10 @@
  * Return: 0.
  */
 
-int main(int argc, char **argv)
+int main(int argc, __attribute__((unused)) char **argv)
 {
-	POSSIBLY_UNUSED(argv);
-	printf("%d\n", argc-1);
+
+	printf("%d\n", argc - 1);
 
 	return (0);
 }
