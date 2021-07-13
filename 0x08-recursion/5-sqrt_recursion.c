@@ -2,7 +2,7 @@
 
 /**
  * _sqrt_recursion -  returns the natural square root of a number.
- * @s: char
+ * @n: char
  * Return: count;
 */
 
@@ -18,8 +18,8 @@ int _sqrt_recursion(int n)
 
 /**
  *  square_root -  returns the natural square root of a number.
- * @x: Description of parameter
- * @y: Description of parameter
+ * @n: Description of parameter
+ * @count: Description of parameter
 * Return: -1 if n does not have a natural square root,
 */
 
