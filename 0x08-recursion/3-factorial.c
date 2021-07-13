@@ -2,7 +2,7 @@
 
 /**
  * factorial - returns the factorial of a given number.
- * @s: char
+ * @n: int
  * Return: -1 if its error;
 */
 
