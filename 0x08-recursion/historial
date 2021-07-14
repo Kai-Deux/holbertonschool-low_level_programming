@@ -1,0 +1,1784 @@
+    1  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    2  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    3  sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+    4  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    5  brew install git
+    6  git -version
+    7  git --version
+    8  tree
+    9  zsh
+   10  ~
+   11  ls -la
+   12  history
+   13  chsh zsh
+   14  ls -la
+   15  vim .zshrc
+   16  l
+   17  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   18  vim .zshrc
+   19  l
+   20  vim .zshrc
+   21  cd Documents
+   22  carpeta lala
+   23  vim .zshrc
+   24  l
+   25  ~
+   26  vim .zshrc
+   27  car hola
+   28  ssh-keygen -t rsa -b 4096 -C alejandra612@hotmal.com 
+   29  pbcopy < ~/.ssh/id_rsa.pub
+   30  git
+   31  git --version
+   32  l
+   33  cd .ssh
+   34  vim config
+   35  ~
+   36  l
+   37  ..
+   38  l
+   39  ..
+   40  l
+   41  cd Volumes
+   42  l
+   43  cd Alejandra
+   44  l
+   45  cd REPOSITORIO
+   46  l
+   47  cd prueba-git
+   48  git clone git@github.com:lahincapie/pruebadessh.git
+   49  Ñ
+   50  ~
+   51  l
+   52  cd .ssh
+   53  l
+   54  rm -rf id_rsa id_rsa.pub
+   55  l
+   56  ~
+   57  ssh-keygen -t rsa -b 4096 -C alejandra612@hotmal.com
+   58  pbcopy < ~/.ssh/id_rsa.pub
+   59  cd REPOSITORIO
+   60  ..
+   61  cd Volumes
+   62  cd Alejandra
+   63  cd REPOSITORIO
+   64  cd prueba-git
+   65  l
+   66  git clone git@github.com:lahincapie/pruebadessh.git
+   67  ..
+   68  git clone git@github.com:lahincapie/blog_maquetacion.git
+   69  l
+   70  git config
+   71  git config --global edit
+   72  git config --global --edit
+   73  git clone git@github.com:lahincapie/Frameworks_y_Librerias_CSS.git
+   74  git config --global --edit
+   75  ~
+   76  l
+   77  cd .ssh
+   78  vim config
+   79  ssh-add -K ~/.ssh/id_rsa
+   80  ~
+   81  ..
+   82  cd Volumes
+   83  cd Alejandra
+   84  cd REPOSITORIO
+   85  l
+   86  git clone git@github.com:lahincapie/Frameworks_y_Librerias_CSS.git
+   87  ~
+   88  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   89  brew update
+   90  brew upgrade
+   91  node -v
+   92  brew install node
+   93  xcode-select --install
+   94  env
+   95  echo PATH
+   96  cd /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+   97  cd usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+   98  l
+   99  ..
+  100  l
+  101  .
+  102  ..
+  103  l
+  104  cd usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+  105  cd usr
+  106  cd local
+  107  cd bin
+  108  l
+  109  ~
+  110  echo $PATH
+  111  $PATH
+  112  ~
+  113  env
+  114  dsenableroot -d
+  115  env
+  116  printenv
+  117  ls -la
+  118  ~
+  119  which code
+  120  netstat -i
+  121  ps
+  122  top
+  123  top u
+  124  top -u
+  125  chsh -s $(which zsh)
+  126  chsh -s $(which zsh)
+  127  chsh -s $(which zsh)
+  128  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  129  alias l="ls -lha"
+  130  l
+  131  ls -R
+  132  help cd
+  133  whatis cd
+  134  whatis ls
+  135  sudo apt install cowsay
+  136  brew install cowsa
+  137  cowsar "holaa"
+  138  cowsay "holaa"
+  139  brew install cowsay
+  140  cowsay "holaa"
+  141  brew install lolcat
+  142  cowsay "holaa" | lolcat
+  143  cowsay "holaa" | lolcat
+  144  cowsay "holaa" | lolcat
+  145  cowsay "holaa" | lolcat
+  146  cowsay "holaa" | lolcat
+  147  cowsay "holaa" | lolcat
+  148  cowsay "holaa" | lolcat
+  149  cowsay "holaa" | lolcat
+  150  cowsay "holaa" | lolcat
+  151  cowsay "holaa" | lolcat
+  152  brew install dragon-and-cow
+  153  cal
+  154  cal
+  155  id
+  156  su root
+  157  su root
+  158  su root
+  159  su root
+  160  su root
+  161  su root
+  162  su root
+  163  su root
+  164  su root
+  165  su root
+  166  su root
+  167  su root
+  168  .hello
+  169  gcc -o hello.c
+  170  ssh cfbb3b60c61a@db79aa99.hbtn-cod.io
+  171  brew cask install emacs
+  172  brew install emacs
+  173  emacs
+  174  ..
+  175  cd Volumes
+  176  cd Alejandra
+  177  l
+  178  mkdir prueba_emacs
+  179  cd prueba_emacs
+  180  touch lala.txt
+  181  touch hikari.txt
+  182  hikari.txt emacs
+  183  emacs hikari.txt
+  184  emacs
+  185  ssh cfbb3b60c61a@db79aa99.hbtn-cod.io
+  186  git config --list --show-origin
+  187  ..
+  188  cd REPOSITORIO
+  189  mkdir HOLBERTON
+  190  mkdir junio7
+  191  rm junio7
+  192  rm -r junio7
+  193  l
+  194  cd HOLBERTON
+  195  mkdir junio7
+  196  cd junio7
+  197  mkdir holbertonschool-zero_day
+  198  cd holbertonschool-zero_day
+  199  git init
+  200  git config --global init.defaultBranch main
+  201  ..
+  202  rm -r holbertonschool-zero_day
+  203  l
+  204  mkdir holbertonschool-zero_day
+  205  cd holbertonschool-zero_day
+  206  git init
+  207  git remote add origin git@github.com:lahincapie/holbertonschool-zero_day.git
+  208  touch README.md
+  209  emacs README.md
+  210  git add .
+  211  git commit -m "My first commit"
+  212  git pull origin main
+  213  git push -u origin main
+  214  l
+  215  mr README.md~
+  216  rm README.md~
+  217  git add .
+  218  git commit -m "delete README.md~"
+  219  git push
+  220  uname
+  221  ssh cfbb3b60c61a@db79aa99.hbtn-cod.io
+  222  mkdir 0x00-vagrant
+  223  mv README.md 0x00-vagrant
+  224  l
+  225  cd 0x00-vagrant
+  226  emacs 0-hello_ubuntu
+  227  git add .
+  228  git commit -m " What does the command uname print when you run it without any option?"
+  229  git push
+  230  l
+  231  ssh cfbb3b60c61a@db79aa99.hbtn-cod.io
+  232  ~
+  233  ..
+  234  cd Volumes
+  235  cd Alejandra
+  236  cd REPOSITORIO
+  237  cd HOLBERTON
+  238  l
+  239  cd junio7
+  240  l
+  241  cd holbertonschool-zero_day
+  242  l
+  243  emacs README.md
+  244  git add .
+  245  git commit - m "My second commit"
+  246  git commit -m "My second commit"
+  247  git push
+  248  ~
+  249  l
+  250  cd .ssh
+  251  l
+  252  vim config
+  253  exit
+  254  l
+  255  rm 0x00-vagrant
+  256  rm -f 0x00-vagrant
+  257  rm -r 0x00-vagrant
+  258  l
+  259  mkdir 0x03-git
+  260  l
+  261  cp README.md 0x03-git
+  262  cd 0x03-git
+  263  l
+  264  ..
+  265  l
+  266  git add .
+  267  gir status
+  268  git status
+  269  git commit -m
+  270  git commit -m "add README"
+  271  git push -u origin main
+  272  git branch
+  273  git pull -u origin main
+  274  git pull
+  275  l
+  276  less README.md
+  277  mkdir bash c js
+  278  l
+  279  cd c
+  280  touch c_is_fun.c
+  281  l
+  282  .
+  283  ..
+  284  cd js
+  285  touch main.js
+  286  l
+  287  ..
+  288  cd js
+  289  touch index.js
+  290  ..
+  291  cd bash
+  292  touch holberton
+  293  emacs holberton
+  294  emacs school
+  295  ..
+  296  git add .
+  297  git commit -m "add files"
+  298  git push
+  299  git add .
+  300  git commit -m "cambio carpetas"
+  301  git push
+  302  git pull
+  303  git checkout update_script
+  304  git-b checkout update_script
+  305  git -b checkout update_script
+  306  git checkout -b update_script
+  307  git checkout main
+  308  git branch
+  309  git branch prueba
+  310  git checkout prueba
+  311  ..
+  312  cd holbertonschool-zero_day
+  313  cd 0x03-git
+  314  cd bash
+  315  touch 98
+  316  git add .
+  317  git commit -m "My personal work"
+  318  git push prueba
+  319  git push origin prueba
+  320  git checkout main
+  321  git branch -d prueba
+  322  git branch -D prueba
+  323  git checkout update_script 
+  324  git log
+  325  l
+  326  touch 98
+  327  l
+  328  git add .
+  329  git commit -m "My personal work"
+  330  git push
+  331  .
+  332  git push origin update_script
+  333  git checkout main
+  334  ..
+  335  git add .
+  336  git commit -m "Hot fix"
+  337  git push
+  338  cd 0x03-git
+  339  ..
+  340  git push
+  341  git pull
+  342  touch up_to_date
+  343  git add .
+  344  git commit -m "How to be up to date in git"
+  345  git push
+  346  l
+  347  git add .
+  348  git commit -m "How to be up to date in git"
+  349  git push
+  350  git merge update_script
+  351  git add .
+  352  git commiy -m "merge"
+  353  git commit -m "merge"
+  354  git merge update_script
+  355  git branch
+  356  git add .
+  357  git commit -m "merge"
+  358  git push
+  359  git add .
+  360  git commit -m "merge"
+  361  git push
+  362  touch .gitignore
+  363  git add .
+  364  git commit -m "git ignore"
+  365  git push
+  366  git add .
+  367  git commit -m "git ignore"
+  368  git push
+  369  ..
+  370  cd Vol
+  371  cd Volumes
+  372  cd Alejandra
+  373  cd REPOSITORIO
+  374  cd HOLBERTON
+  375  mkdir Shell_basics
+  376  cd Shell_basics
+  377  mkdir holberton-system_engineering-devops
+  378  cd holberton-system_engineering-devops
+  379  git remote add origin git@github.com:lahincapie/holberton-system_engineering-devops.git
+  380  git init
+  381  git remote add origin git@github.com:lahincapie/holberton-system_engineering-devops.git
+  382  mkdir 0x00-shell_basics
+  383  cd 0x00-shell_basics
+  384  emacs 0-current_working_directory
+  385  git add .
+  386  git commit -m "Este es escript muestra la ruta de la carpeta"
+  387  git push
+  388  git push origin main
+  389  l
+  390  chmod u+x 0-current_working_directory
+  391  l
+  392  ./0-current_working_directory
+  393  git add . 
+  394  git commit -m "ejecutable de escript"
+  395  git push -u origin master
+  396  git push -u origin main
+  397  emacs README.md
+  398  emacs 0-current_working_directory
+  399  git add .
+  400  git commit -m "add README"
+  401  chmod u+x 0-current_working_directory
+  402  ./0-current_working_directory
+  403  git add .
+  404  git commit -m "ejecutable"
+  405  git push -u origin main
+  406  ..
+  407  git add .
+  408  git commit -m "listar archivos y cambiar de directorio"
+  409  git push
+  410  git add .
+  411  git commit -m "listar archivos y cambiar de directorio"
+  412  git push
+  413  chmod u+x 1-listit
+  414  cd 0x00-shell_basics
+  415  chmod u+x 1-listit
+  416  chmod u+x 2-bring_me_home
+  417  git add .
+  418  git commit -m "listar archivos y cambiar de directorio"
+  419  git push
+  420  chmod u+x 2-bring_me_home
+  421  git add .
+  422  chmod u+x 2-bring_me_home
+  423  git add .
+  424  git commit -m "cambio en ir a root"
+  425  git push
+  426  man ls
+  427  hystory
+  428  history
+  429  chmod u+x 3-listfiles
+  430  chmod u+x 4-listmorefiles
+  431  chmod u+x 5-listfilesdigitonly
+  432  git add .
+  433  git commit -m "ejercicios 3 4 5"
+  434  git push
+  435  git add .
+  436  git commit -m "ejercicios 4 5"
+  437  chmod u+x 4-listmorefiles
+  438  chmod u+x 5-listfilesdigitonly
+  439  git add .
+  440  git commit -m "ejercicios 4 5"
+  441  git push
+  442  ./5-listfilesdigitonly
+  443  chmod u+x 5-listfilesdigitonly
+  444  chmod u+x 4-listmorefiles
+  445  git add .
+  446  git commit -m "ejercicios 4 5"
+  447  git push
+  448  chmod u+x 6-firstdirectory
+  449  git commit -m "ejercicios 6"
+  450  git add .
+  451  git commit -m "ejercicios 6"
+  452  git push
+  453  chmod u+x 7-movethatfile
+  454  chmod u+x 8-firstdelete
+  455  git add .
+  456  git commit -m "ejercicios 7 y 8"
+  457  git push
+  458  chmod u+x 9-firstdirdeletion
+  459  git add .
+  460  git commit -m "ejercicios 9"
+  461  git push
+  462  chmod u+x 9-firstdirdeletion
+  463  git add .
+  464  git commit -m "ejercicios 9"
+  465  git push
+  466  chmod u+x 10-back
+  467  chmod u+x 11-lists
+  468  git add .
+  469  git commit -m "ejercicios 10 11"
+  470  git push
+  471  ..
+  472  git add .
+  473  git commit -m "ejercicios 10 11"
+  474  git push
+  475  chmod u+x 10-back
+  476  chmod u+x 11-lists
+  477  git add .
+  478  git commit -m "ejercicios 10 11"
+  479  git push
+  480  chmod u+x 10-back
+  481  cd 0x00-shell_basics
+  482  chmod u+x 10-back
+  483  chmod u+x 11-lists
+  484  git add .
+  485  git commit -m "ejercicios 10 11"
+  486  git push
+  487  tree
+  488  cd tree
+  489  ls -F
+  490  chmod u+x 10-back
+  491  chmod u+x 11-lists
+  492  git add .
+  493  git commit -m "ejercicios 10 11"
+  494  git push
+  495  chmod u+x 11-lists
+  496  git add .
+  497  git commit -m "ejercicios 11"
+  498  git push
+  499  chmod u+x 12-file_type
+  500  chmod u+x 13-symbolic_link
+  501  git add .
+  502  git commit -m "ejercicios 12"
+  503  git push
+  504  man cp
+  505  chmod u+x 14-copy_html
+  506  git add .
+  507  git commit -m "ejercicios 14"
+  508  git push
+  509  chmod u+x 100-lets_move
+  510  chmod u+x 101-clean_emacs
+  511  chmod u+x 102-tree
+  512  chmod u+x 103-commas
+  513  git add .
+  514  git commit -m "ejercicios 100 101 102 103"
+  515  git add .
+  516  git commit -m "ejercicios 100 101 102 103"
+  517  git push
+  518  chmod u+x holberton.mgc
+  519  git add .
+  520  git commit -m "ejercicios holberton"
+  521  git push
+  522  exit
+  523  cd ..
+  524  cd Volumes
+  525  cd Alejandra
+  526  cd REPOSITORIO
+  527  cd HOLBERTON
+  528  l
+  529  cd Shell_basics
+  530  l
+  531  cd holberton-system_engineering-devops
+  532  l
+  533  cd 0x00-shell_basics
+  534  l
+  535  cd 0x01-shell_permissions
+  536  l
+  537  chmod u+x 0-iam_betty
+  538  cd add .
+  539  git add .
+  540  git commit -m "My name is Betty"
+  541  git push
+  542  man su
+  543  man whoami
+  544  man id
+  545  id-un
+  546  id -un
+  547  id -nr
+  548  man id -un
+  549  man id
+  550  man groups
+  551  id -Gn
+  552  man id
+  553  man chmod
+  554  man touch
+  555  man chmod
+  556  man --reference
+  557  man chmod
+  558  mkdir
+  559  man mkdir
+  560  man chgrp
+  561  chown
+  562  man chown
+  563  l
+  564  chmod u+x 0-iam_betty
+  565  chmod u+x 1-who_am_i
+  566  chmod u+x 2-groups
+  567  chmod u+x 3-new_owner
+  568  chmod u+x 4-empty
+  569  chmod u+x 5.\ Execute
+  570  chmod u+x 5-execute
+  571  chmod u+x 6-multiple_permissions
+  572  chmod u+x 7-everybody
+  573  chmod u+x 8-James_Bond
+  574  chmod u+x 9-John_Doe
+  575  chmod u+x 10-mirror_permissions
+  576  chmod u+x 11-directories_permissions
+  577  chmod u+x 12-directory_permissions
+  578  chmod u+x 13-change_group
+  579  chmod u+x 100-change_owner_and_group
+  580  chmod u+x 101-symbolic_link_permissions
+  581  chmod u+x 102-if_only
+  582  chmod u+x 103-Star_Wars
+  583  ./103-Star_Wars
+  584  ..
+  585  git add .
+  586  git commit -m "0x01-shell_permissions"
+  587  git push
+  588  l
+  589  cd 0x01-shell_permissions
+  590  chmod u+x 0-iam_betty
+  591  chmod u+x 1-who_am_i
+  592  chmod u+x 2-groups
+  593  chmod u+x 3-new_owner
+  594  chmod u+x 4-empty
+  595  chmod u+x 5-execute
+  596  chmod u+x 6-multiple_permissions
+  597  chmod u+x 7-everybody
+  598  chmod u+x 8-James_Bond
+  599  chmod u+x 9-John_Doe
+  600  chmod u+x 10-mirror_permissions
+  601  chmod u+x 11-directories_permissions
+  602  chmod u+x 12-directory_permissions
+  603  chmod u+x 13-change_group
+  604  chmod u+x 100-change_owner_and_group
+  605  chmod u+x 101-symbolic_link_permissions
+  606  chmod u+x 102-if_only
+  607  chmod u+x 103-Star_Wars
+  608  git add .
+  609  git commit -m "0x01-shell_permissions"
+  610  git push
+  611  ..
+  612  cd V
+  613  de Volumes
+  614  cd Volumes
+  615  cd Alejandra
+  616  cd REPOSITORIO
+  617  pwd
+  618  ~
+  619  cd /Volumes/Alejandra/REPOSITORIO
+  620  ~
+  621  l
+  622  vim .zshrc
+  623  cd re
+  624  vim .zshrc
+  625  re
+  626  l
+  627  npm install editor.md
+  628  l
+  629  cd HOLBERTON
+  630  l
+  631  cs Shell_basics
+  632  cd Shell_basics
+  633  l
+  634  cd holberton-system_engineering-devops
+  635  man su
+  636  man id
+  637  man chown
+  638  man touch
+  639  man chmod
+  640  git add .
+  641  git commit -m "README.md"
+  642  git push
+  643  l
+  644  cd 0x01-shell_permissions
+  645  l
+  646  chmod u+x 11-directories_permissions
+  647  git add .
+  648  git commit -m "11""\n\nq
+  649  git commit -m "11"\n\nq
+  650  git push
+  651  rep
+  652  r
+  653  rep
+  654  r
+  655  rep
+  656  ~
+  657  l
+  658  lees .zshrc
+  659  lsss .zshrc
+  660  less .zshrc
+  661  re
+  662  cd HOLBERTON
+  663  l
+  664  cd Shell_basics
+  665  l
+  666  cd holberton-system_engineering-devops
+  667  cd 0x01-shell_permissions
+  668  l
+  669  git add .
+  670  git commit -m "14"
+  671  git push
+  672  history
+  673  chmod u+x 100-change_owner_and_group
+  674  git add .
+  675  git commit -m "14"
+  676  git push
+  677  chmod u+x 11-directories_permissions
+  678  git add .
+  679  git commit -m "11"
+  680  git push
+  681  exit
+  682  git add ,
+  683  git add .
+  684  git commit -m "Linux"
+  685  git push
+  686  ls
+  687  cd holberton-system_engineering-devops
+  688  l
+  689  cd 0x02-shell_redirections
+  690  touch 0-hello_world 1-confused_smiley 2-hellofile 3-twofiles 4-lastlines 5-firstlines 6-third_line 7-file 8-cwd_state 9-duplicate_last_line 10-no_more_js 11-directories 12-newest_files 13-unique 14-findthatword 15-countthatword 16-whatsnext 17-hidethisword 18-letteronly 19-AZ 20-hiago 21-reverse 22-users_and_homes 100-empty_casks 101-gifs 102-acrostic 103-the_biggest_fan
+  691  re
+  692  cd HOLBERTON
+  693  l
+  694  cd Shell_basics
+  695  l
+  696  cd holberton-system_engineering-devops
+  697  l
+  698  cd 0x02-shell_redirections
+  699  history
+  700  chmod u+x 0-hello_world
+  701  ./0-hello_world
+  702  chmod u+x 1-confused_smiley
+  703  chmod u+x 1-confused_smile
+  704  ./1-confused_smiley
+  705  git add .
+  706  git commit -m "0 y 1"
+  707  git push
+  708  chmod u+x 0-hello_world
+  709  chmod u+x 1-confused_smile
+  710  chmod u+x 1-confused_smiley
+  711  git add .
+  712  git commit -m "0 y 1"
+  713  git push
+  714  chmod u+x 1-confused_smiley
+  715  git add .
+  716  git commit -m "1"
+  717  git push
+  718  chmod u+x 2-hellofile 3-twofiles 4-lastlines 5-firstlines 6-third_line 7-file 8-cwd_state 9-duplicate_last_line 10-no_more_js
+  719  git add .
+  720  git  commit -m "2 3 4 5 6 7 8 9 10"
+  721  git push
+  722  chmod u+xx 11-directories 12-newest_files 13-unique 14-findthatword 15-countthatword 16-whatsnext 17-hidethisword 18-letteronly 19-AZ 20-hiago
+  723  git  add .
+  724  git  commit -m "11 12 13 14 15 16 17 18 19 20"
+  725  git push
+  726  mav grep
+  727  man grep
+  728  chmod u+xx 18-letteronly
+  729  git  add .
+  730  git  commit -m "18"
+  731  git push
+  732  chmod u+xx 18-letteronly
+  733  git  add .
+  734  chmod u+xx 18-letteronly
+  735  git  add .
+  736  git  commit -m "18"
+  737  git push
+  738  chmod u+xx 18-letteronly 19-AZ 20-hiago 21-reverse 22-users_and_homes 100-empty_casks 101-gifs 102-acrostic 103-the_biggest_fan
+  739  git  commit -m "18 19 29 21 22 101 102 103"
+  740  git  add .
+  741  git  commit -m "18 19 29 21 22 101 102 103"
+  742  git push
+  743  chmod u+xx 100-empty_casks 103-the_biggest_fan
+  744  git  add .
+  745  git  commit -m "100 103"
+  746  git push
+  747  chmod u+xx 100-empty_casks
+  748  git  add .
+  749  git  commit -m "100"
+  750  git push
+  751  chmod u+xx 101-gifs
+  752  git  add .
+  753  git  commit -m "101"
+  754  git push
+  755  exit
+  756  re
+  757  git clone git@github.com:lahincapie/blog_svelte.git
+  758  mkdir lahincapie
+  759  cd lahincapie
+  760  git clone git@github.com:lahincapie/blog_svelte.git
+  761  l
+  762  cd blog_svelte
+  763  npm init
+  764  npm install
+  765  npm run dev
+  766  ls
+  767  cd 0x03-shell_variables_expansions
+  768  ls
+  769  touch 0-alias
+  770  touch 1-hello_you 2-path 3-paths 4-global_variables 5-local_variables 6-create_local_variable 7-create_global_variable 8-true_knowledge 9-divide_and_rule 10-love_exponent_breath 11-binary_to_decimal 12-combinations 13-print_float 100-decimal_to_hexadecimal 101-rot13 102-odd 103-water_and_stir
+  771  env
+  772  ..
+  773  cd HOLBERTON
+  774  cd Shell_basics
+  775  cd holberton-system_engineering-devops
+  776  git add .
+  777  git commit -m "0 1 2 3 4"
+  778  git push
+  779  cd 0x03-shell_variables_expansions
+  780  chmod u+x 1-hello_you 2-path 3-paths 4-global_variables
+  781  git add .
+  782  git commit -m "0 1 2 3 4"
+  783  git push
+  784  chmod u+x 5-local_variables 6-create_local_variable 7-create_global_variable 8-true_knowledge 9-divide_and_rule
+  785  git commit -m "5 6 7 8 9"
+  786  git add .
+  787  git commit -m "5 6 7 8 9"
+  788  git push
+  789  chmod u+x 8-true_knowledge
+  790  git add .
+  791  git commit -m "8"
+  792  git push
+  793  git add .
+  794  chmod u+x 10-love_exponent_breath
+  795  chmod u+x 10-love_exponent_breath 11-binary_to_decimal 12-combinations 13-print_float 100-decimal_to_hexadecimal
+  796  git add .
+  797  git commit -m "10 11 12 13 14"
+  798  git push
+  799  ~
+  800  ls
+  801  cd Downloads
+  802  l
+  803  ls -li
+  804  ~
+  805  l
+  806  nano .zshrc
+  807  l
+  808  re
+  809  cd HOLBERTON
+  810  cd Shell_basics
+  811  cd holberton-system_engineering-devops
+  812  l
+  813  cd 0x03-shell_variables_expansions
+  814  chmod u+x 101-rot13 102-odd 103-water_and_stir
+  815  git add .
+  816  git commit -m "101 102 103"
+  817  git push
+  818  ¨
+  819  ~
+  820  mkdir link
+  821  cd link
+  822  touch project1.txt
+  823  touch project2.txt
+  824  touch data1
+  825  touch data2
+  826  touch data3
+  827  mkdir file1 file2 file3
+  828  l
+  829  ls -hli
+  830  ln data1 hard-linkdata1
+  831  ls -liih
+  832  ls -lhi
+  833  ln -s file2 symbolic-link-file2
+  834  ls -lhi
+  835  l
+  836  git clone git@github.com:lahincapie/holbertonschool-low_level_programming.git
+  837  ~
+  838  l
+  839  cd .ssh
+  840  l
+  841  nano config
+  842  re
+  843  cd HOLBERTON
+  844  l
+  845  cd holbertonschool-low_level_programming
+  846  l
+  847  cd 0x00-hello_world
+  848  l
+  849  touch 2-assembler 3-name 4-puts.c 5-printf.c 6-size.c 
+  850  history
+  851  chmod u+x
+  852  chmod u+x 0-preprocessor
+  853  git add .
+  854  git commit -m "0"
+  855  git push
+  856  ./0-preprocessor
+  857  chmod u+x 1-compiler
+  858  git add .
+  859  git commit -m "1"
+  860  git push
+  861  chmod u+x 2-assembler 3-name
+  862  git add .
+  863  git commit -m "2 3"
+  864  git push
+  865  git add .
+  866  git commit -m "4"
+  867  git push
+  868  git add .
+  869  git commit -m "4"
+  870  git push
+  871  git add .
+  872  git commit -m "4"
+  873  git push
+  874  git add .
+  875  git commit -m "4"
+  876  git push
+  877  git add .
+  878  git commit -m "4"
+  879  git push
+  880  git add .
+  881  git commit -m "4"
+  882  git push
+  883  git add .
+  884  git commit -m "4"
+  885  git push
+  886  git add .
+  887  git commit -m "4"
+  888  git push
+  889  git add .
+  890  git commit -m "4"
+  891  git push
+  892  git add .
+  893  git commit -m "5"
+  894  git push
+  895  git add .
+  896  git commit -m "5"
+  897  git push
+  898  git add .
+  899  git commit -m "5"
+  900  git push
+  901  git add .
+  902  git commit -m "5"
+  903  git push
+  904  git add .
+  905  git commit -m "6"
+  906  git push
+  907  git add .
+  908  chmod u+x 101-quote.c
+  909  git add .
+  910  git commit -m "100 101"
+  911  git push
+  912  git add .
+  913  git commit -m "100 101"
+  914  git push
+  915  chmod u+x 100-intel
+  916  git add .
+  917  git commit -m "100 101"
+  918  git push
+  919  exit
+  920  git add . 
+  921  git commit -m "primer punto"
+  922  git push
+  923  git add . 
+  924  git commit -m "primer punto"
+  925  git push
+  926  git add . 
+  927  git push
+  928  git commit -m "primer punto"
+  929  git push
+  930  git add . 
+  931  git commit -m "primer punto"
+  932  git push
+  933  git add . 
+  934  git commit -m "primer punto"
+  935  git push
+  936  git add . 
+  937  git commit -m "primer punto"
+  938  git push
+  939  git add . 
+  940  git commit -m "primer punto"
+  941  git push
+  942  git add . 
+  943  git commit -m "primer punto"
+  944  git push
+  945  git add . 
+  946  git commit -m "primer punto"
+  947  git push
+  948  git add . 
+  949  git commit -m "primer punto"
+  950  git push
+  951  git add . 
+  952  git commit -m "1"
+  953  git push
+  954  git add . 
+  955  git commit -m "1"
+  956  git push
+  957  git add . 
+  958  git commit -m "2"
+  959  git push
+  960  git add . 
+  961  git commit -m "2"
+  962  git push
+  963  git add .
+  964  git commit -m "3 al 10"
+  965  git push
+  966  git add .
+  967  git commit -m "3 al 10"
+  968  git push
+  969  git add .
+  970  git commit -m "3 al 10"
+  971  git push
+  972  git add .
+  973  git commit -m "10 13"
+  974  git push
+  975  git add .
+  976  git commit -m "10 13"
+  977  git push
+  978  git add .
+  979  git commit -m "10 13"
+  980  git push
+  981  git add .
+  982  git commit -m "10 13"
+  983  git push
+  984  touch 0-holberton.c 1-alphabet.c 2-print_alphabet_x10.c 3-islower.c 4-isalpha.c 5-sign.c 6-abs.c 7-print_last_digit.c 8-24_hours.c 9-times_table.c 10-add.c 11-print_to_98.c readme.md
+  985  git add .
+  986  git commit -m "0"
+  987  git push
+  988  git add .
+  989  git commit -m "0"
+  990  git push
+  991  git add .
+  992  git commit -m "0"
+  993  git push
+  994  git add .
+  995  git commit -m "0"
+  996  git push
+  997  git add .
+  998  git commit -m "0"
+  999  git push
+ 1000  git add .
+ 1001  git commit -m "0"
+ 1002  git push
+ 1003  git add .
+ 1004  git commit -m "0"
+ 1005  git push
+ 1006  git add .
+ 1007  git commit -m "0"
+ 1008  git push
+ 1009  git add .
+ 1010  git commit -m "0"
+ 1011  git push
+ 1012  git add .
+ 1013  git commit -m "1"
+ 1014  git push
+ 1015  git add .
+ 1016  git commit -m "1"
+ 1017  git push
+ 1018  git add .
+ 1019  git commit -m "1"
+ 1020  git push
+ 1021  git add .
+ 1022  git commit -m "1"
+ 1023  git push
+ 1024  git add .
+ 1025  git commit -m "2"
+ 1026  git push
+ 1027  git add .
+ 1028  git commit -m "2"
+ 1029  git push
+ 1030  git add .
+ 1031  git commit -m "4"
+ 1032  git push
+ 1033  git add .
+ 1034  git commit -m "4"
+ 1035  git push
+ 1036  git add .
+ 1037  git commit -m "5 6 7 8 9 10 111"
+ 1038  git push
+ 1039  git add .
+ 1040  git commit -m "0"
+ 1041  cd holbertonschool-low_level_programming
+ 1042  l
+ 1043  cd 0x03-debugging
+ 1044  git add .
+ 1045  git commit -m "0"
+ 1046  git push
+ 1047  git add .
+ 1048  git commit -m "0"
+ 1049  git push
+ 1050  git add .
+ 1051  git commit -m "0"
+ 1052  git push
+ 1053  git add .
+ 1054  git commit -m "0"
+ 1055  git push
+ 1056  git add .
+ 1057  git commit -m "0"
+ 1058  git push
+ 1059  git add .
+ 1060  git commit -m "1"
+ 1061  git push
+ 1062  git add .
+ 1063  git commit -m "2"
+ 1064  git push
+ 1065  git add .
+ 1066  git commit -m "2"
+ 1067  git push
+ 1068  git add .
+ 1069  git commit -m "2"
+ 1070  git push
+ 1071  git add .
+ 1072  git commit -m "3"
+ 1073  git push
+ 1074  git add .
+ 1075  git commit -m "3"
+ 1076  git push
+ 1077  git add .
+ 1078  git commit -m "3"
+ 1079  git push
+ 1080  git add .
+ 1081  git commit -m "3"
+ 1082  git push
+ 1083  git add .
+ 1084  git commit -m "3"
+ 1085  git push
+ 1086  touch 0-isupper.c1-isdigit.c 2-mul.c 3-print_numbers.c 4-print_most_numbers.c 5-more_numbers.c  6-print_line.c 7-print_diagonal.c 8-print_square.c 9-fizz_buzz.c 10-print_triangle.c
+ 1087  touch 01-isdigit.c
+ 1088  git add .
+ 1089  git commit -m "0"
+ 1090  git push
+ 1091  git add .
+ 1092  git commit -m "0"
+ 1093  git push
+ 1094  git add .
+ 1095  git push
+ 1096  git add .
+ 1097  git commit -m "0"
+ 1098  git push
+ 1099  git add .
+ 1100  git commit -m "0"
+ 1101  git push
+ 1102  git add .
+ 1103  git commit -m "0"
+ 1104  git push
+ 1105  git add .
+ 1106  git commit -m "0"
+ 1107  git push
+ 1108  git add .
+ 1109  git commit -m "0"
+ 1110  git push
+ 1111  git add .
+ 1112  git commit -m "0"
+ 1113  git push
+ 1114  git clone https://github.com/holbertonschool/Betty.git
+ 1115  cd Betty
+ 1116  sudo ./install.sh
+ 1117  ./install.sh
+ 1118  l
+ 1119  sudo ./install.sh betty.sh betty-style.pl betty-doc.pl
+ 1120  ./install.sh
+ 1121  sudo ./install.sh
+ 1122  betty 0-isupper.c
+ 1123  re
+ 1124  cd HOLBERTON/l
+ 1125  cd HOLBERTON
+ 1126  l
+ 1127  cd holbertonschool-low_level_programming
+ 1128  l
+ 1129  cd 0x04-more_functions_nested_loops
+ 1130  l
+ 1131  betty 0-isupper.c
+ 1132  git add .
+ 1133  git commit -m "0"
+ 1134  git push
+ 1135  betty 0-isupper.c
+ 1136  git add .
+ 1137  git commit -m "0"
+ 1138  git push
+ 1139  git add .
+ 1140  git commit -m "0"
+ 1141  git push
+ 1142  git add .
+ 1143  git commit -m "0"
+ 1144  git push
+ 1145  betty 1-isdigit.c
+ 1146  git add .
+ 1147  git commit -m "0"
+ 1148  git push
+ 1149  betty 1-isdigit.c
+ 1150  main.c
+ 1151  betty 1-isdigit.c
+ 1152  betty 0-isupper.c
+ 1153  git add .
+ 1154  git commit -m "0"
+ 1155  git push
+ 1156  git add .
+ 1157  git commit -m "1"
+ 1158  git push
+ 1159  betty 1-isdigit.c
+ 1160  git add .
+ 1161  git commit -m "1"
+ 1162  git push
+ 1163  betty 1-isdigit.c
+ 1164  git add .
+ 1165  git commit -m "1"
+ 1166  git push
+ 1167  git add .
+ 1168  git commit -m "2"
+ 1169  git push
+ 1170  betty 2-mul.c
+ 1171  git add .
+ 1172  git commit -m "2"
+ 1173  git push
+ 1174  betty 3-print_numbers.c
+ 1175  git add .
+ 1176  git commit -m "3"
+ 1177  git push
+ 1178  git add .
+ 1179  git commit -m "3"
+ 1180  git push
+ 1181  betty 3-print_numbers.c
+ 1182  git add .
+ 1183  git commit -m "3"
+ 1184  git push
+ 1185  betty 3-print_numbers.c
+ 1186  git add .
+ 1187  git commit -m "3"
+ 1188  git push
+ 1189  betty 4-print_most_numbers.c
+ 1190  git add .
+ 1191  git commit -m "4"
+ 1192  git push
+ 1193  betty 4-print_most_numbers.c
+ 1194  git add .
+ 1195  git commit -m "4"
+ 1196  git push
+ 1197  git add .
+ 1198  git commit -m "4"
+ 1199  git push
+ 1200  git add .
+ 1201  git commit -m "4"
+ 1202  git push
+ 1203  betty 4-print_most_numbers.c
+ 1204  betty 5-more_numbers.c
+ 1205  git add .
+ 1206  git commit -m "5"
+ 1207  git push
+ 1208  git add .
+ 1209  git commit -m "5"
+ 1210  git push
+ 1211  git add. 
+ 1212  git add . 
+ 1213  git commit -m "borre los archivos"
+ 1214  git push
+ 1215  git add . 
+ 1216  git commit -m "3"
+ 1217  git push
+ 1218  betty 101-print_number.c
+ 1219  git add . 
+ 1220  git commit -m "101"
+ 1221  git push
+ 1222  git add . 
+ 1223  git commit -m "101"
+ 1224  git push
+ 1225  betty 101-print_number.c
+ 1226  history
+ 1227  touch  4-print_most_numbers.c 5-more_numbers.c  6-print_line.c 7-print_diagonal.c 8-print_square.c 9-fizz_buzz.c 10-print_triangle.c
+ 1228  betty 4-print_most_numbers.c
+ 1229  betty 5-more_numbers.c
+ 1230  betty 6-print_line.c
+ 1231  betty 7-print_diagonal.c
+ 1232  betty 8-print_square.c
+ 1233  betty 9-fizz_buzz.c
+ 1234  betty 10-print_triangle.c
+ 1235  betty 101-print_number.c
+ 1236  git add .
+ 1237  git commit -m "3 4 5 6 7 8 9 10 101"
+ 1238  git push
+ 1239  git add .
+ 1240  git commit -m "3 4 5 6 7 8 9 10 101"
+ 1241  git push
+ 1242  betty 4-print_most_numbers.c
+ 1243  betty 5
+ 1244  betty 4-print_most_numbers.c
+ 1245  betty 5-more_numbers.c
+ 1246  betty 6-print_line.c
+ 1247  betty 7-print_diagonal.c
+ 1248  betty 8-print_square.c
+ 1249  betty 9-fizz_buzz.c
+ 1250  betty 10-print_triangle.c
+ 1251  betty 101-print_number.c
+ 1252  git status
+ 1253  betty 10-print_triangle.c
+ 1254  git add .
+ 1255  git commit -m "final"
+ 1256  git add .
+ 1257  git commit -m "final"
+ 1258  git push
+ 1259  git status
+ 1260  cd ..
+ 1261  cd 0x02-functions_nested_loops
+ 1262  git add .
+ 1263  git commit -m "final"
+ 1264  git push
+ 1265  git status
+ 1266  exit
+ 1267  eval $(ssh-agent -s)
+ 1268  l
+ 1269  ..
+ 1270  l
+ 1271  ..
+ 1272  l
+ 1273  ~
+ 1274  ..
+ 1275  l
+ 1276  ~
+ 1277  l
+ 1278  cd .shh
+ 1279  cd .ssh
+ 1280  l
+ 1281  pwd
+ 1282  l
+ 1283  ..
+ 1284  ssh-add /Users/lahincapie/.ssh/id_rsa
+ 1285  rep
+ 1286  re
+ 1287  ce Frameworks_y_Librerias_CSS
+ 1288  cd leonidas
+ 1289  cd portafolio-pablo
+ 1290  git clone git@github.com:lahincapie/portafolio-pablo.git
+ 1291  cd portafolio-pablo
+ 1292  l
+ 1293  mkdir css images icons
+ 1294  touch index.html
+ 1295  git add .
+ 1296  git commit -m "primera version de la barra de menu"
+ 1297  git push
+ 1298  exit
+ 1299  git clone git@github.com:lahincapie/Portafolio-de-Jaume.git
+ 1300  cd Portafolio-de-Jaume
+ 1301  git add .
+ 1302  git commit -m "Header mobile"
+ 1303  git push
+ 1304  python
+ 1305  exit
+ 1306  re
+ 1307  l
+ 1308  cd MINTIC
+ 1309  l
+ 1310  cd fundamentos-de-programacion
+ 1311  mkdir ejercios_C cd ejercicios_C touch holamundo.py nano holaMundo.py
+ 1312  l
+ 1313  cd ejercicios_C
+ 1314  touch holaMundo.py
+ 1315  nano holaMundo.py
+ 1316  python
+ 1317  python holaMundo.py
+ 1318  /usr/local/bin/python3 /Volumes/Alejandra/REPOSITORIO/MINTIC/fundamentos-de-programacion/ejercicios/hola-mundo/holaMundo.py
+ 1319  touch 0-reset_to_98.c 1-swap.c 2-strlen.c 3-puts.c 4-print_rev.c 5-rev_string.c 6-puts2.c 7-puts_half.c 8-print_array.c 9-strcpy.c
+ 1320  betty 0-reset_to_98.c
+ 1321  git add .
+ 1322  git commit -n "0 1 2 3 4"
+ 1323  git commit -m "0 1 2 3 4"
+ 1324  git push
+ 1325  git pull
+ 1326  git merge
+ 1327  git commit -m "0 1 2 3 4"
+ 1328  git pull
+ 1329  git config pull.rebase false
+ 1330  git pull
+ 1331  git push
+ 1332  git add .
+ 1333  git commit -m "5 6 7 8 9"
+ 1334  git pull
+ 1335  git push
+ 1336  git add .
+ 1337  git commit -m "7"
+ 1338  git push
+ 1339  git add .
+ 1340  git commit -m "100"
+ 1341  git push
+ 1342  git add .
+ 1343  git commit -m "100"
+ 1344  git push
+ 1345  git add .
+ 1346  git commit -m "101"
+ 1347  git push
+ 1348  git add .
+ 1349  git commit -m "hola"
+ 1350  git push
+ 1351  git add .
+ 1352  git commit -m "101 array"
+ 1353  git push
+ 1354  exit
+ 1355  re
+ 1356  l
+ 1357  cd MINTIC
+ 1358  l
+ 1359  cd fundamentos-de-programacion
+ 1360  l
+ 1361  cd cliclo1
+ 1362  l
+ 1363  git clone git@github.com:lahincapie/Reto-1-Inicio-de-sesion-captcha..git
+ 1364  l
+ 1365  /usr/local/bin/python3 -m pip install -U autopep8 --user
+ 1366  l
+ 1367  cd Reto-1-Inicio-de-sesion-captcha.
+ 1368  l
+ 1369  python reto1.py
+ 1370  ls -lar
+ 1371  pwd
+ 1372  emacs 0-current_working_directory
+ 1373  chmod -u+x \#0-current_working_directory\#
+ 1374  ./\#0-current_working_directory\#
+ 1375  l#
+ 1376  l
+ 1377  emacs 0-current_working_directory
+ 1378  chmod -u+x 0-current_working_directory
+ 1379  l
+ 1380  chmod u+x 0-current_working_directory
+ 1381  chmod u+x \#0-current_working_directory\# 
+ 1382  l
+ 1383  /#0-current_working_directory#
+ 1384  ./#0-current_working_directory#
+ 1385  vim permissions
+ 1386  emacs permissions
+ 1387  l
+ 1388  cat permissions
+ 1389  ecmacs password
+ 1390  emacs password
+ 1391  /Volumes/Alejandra/REPOSITORIO/HOLBERTON/Shell_basics/holberton-system_engineering-devops/0x02-shell_redirections/103-the_biggest_fan ; exit;
+ 1392  re
+ 1393  l
+ 1394  cd MINTIC
+ 1395  l
+ 1396  cd fundamentos-de-programacion
+ 1397  l
+ 1398  cd cliclo1
+ 1399  l
+ 1400  cd Reto-1-Inicio-de-sesion-captcha.
+ 1401  l
+ 1402  ., code
+ 1403  . code
+ 1404  python reto1.py
+ 1405  re
+ 1406  cd HOLBERTON
+ 1407  l
+ 1408  cd holbertonschool-low_level_programming
+ 1409  l
+ 1410  0x06-pointers_arrays_strings
+ 1411  mkdir 0x06-pointers_arrays_strings
+ 1412  l
+ 1413  cd 0x06-pointers_arrays_strings
+ 1414  touch README-md 0-strcat.c 1-strncat.c 2-strncpy.c 3-strcmp.c 4-rev_array.c 5-string_toupper.c 6-cap_string.c  7-leet.c holberton.h 
+ 1415  l
+ 1416  touch 0-main.c 1-main.c 1-main.c 3-main.c 4-main.c  5-main.c 6-main.c  7-main.c  
+ 1417  ~
+ 1418  brew update
+ 1419  brew upgrade
+ 1420  brew info gcc
+ 1421  brew install gcc
+ 1422  brew info gcc
+ 1423  brew cleanup
+ 1424  brew info gcc
+ 1425  exit
+ 1426  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1427  l
+ 1428  cat 0-strcat
+ 1429  l
+ 1430  ./0-strcat 
+ 1431  touch 2-main.c
+ 1432  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strncat.c -o 1-strncat
+ 1433  cgg 0-strcat
+ 1434  gcc 0-strcat.c
+ 1435  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1436  ./0-strcat
+ 1437  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1438  ./0-strcat
+ 1439  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1440  ./0-strcat
+ 1441  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1442  ./0-strcat
+ 1443  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1444  ./0-strcat
+ 1445  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1446  ./0-strcat
+ 1447  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1448  ./0-strcat
+ 1449  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-strcat.c -o 0-strcat
+ 1450  ./0-strcat
+ 1451  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strncat.c -o 1-strncat
+ 1452  ./1-strncat
+ 1453  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strncat.c -o 1-strncat
+ 1454  ./1-strncat
+ 1455  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strncat.c -o 1-strncat
+ 1456  ./1-strncat
+ 1457  cd ..
+ 1458  l
+ 1459  cd MINTIC
+ 1460  l
+ 1461  cd fundamentos-de-programacion
+ 1462  cd ejercicios
+ 1463  l
+ 1464  python tryc.py
+ 1465  python --version
+ 1466  python3 --version
+ 1467  python3 tryc.py
+ 1468  cd ..
+ 1469  l
+ 1470  cd cliclo1
+ 1471  l
+ 1472  cd Reto-1-Inicio-de-sesion-captcha.
+ 1473  l
+ 1474  python3 reto1.py
+ 1475  /usr/bin/python3 -m pip install -U autopep8 --user
+ 1476  re
+ 1477  l
+ 1478  cd HOLBERTON
+ 1479  l
+ 1480  mkdir varios
+ 1481  cd vario
+ 1482  cd varios
+ 1483  touch data_types.c
+ 1484  emacs data_types.c
+ 1485  l
+ 1486  gcc data_types.c
+ 1487  ./data_types.c
+ 1488  l
+ 1489  gcc a.out
+ 1490  history
+ 1491  gcc -Wall -pedantic -Werror data_types.c -o data_types
+ 1492  ./data_types
+ 1493  emacs data_types_floats.c
+ 1494  gcc -Wall -pedantic -Werror data_types_floats.c -o data_types_floats
+ 1495  gcc data_types_floats.c -o data_types_floats
+ 1496  emacs data_types_floats.c
+ 1497  gcc data_types_floats.c -o data_types_floats
+ 1498  emacs data_types_floats.c
+ 1499  gcc data_types_floats.c -o data_types_floats
+ 1500  ./data_types_floats
+ 1501  cd ..
+ 1502  l
+ 1503  cd holbertonschool-low_level_programming
+ 1504  l
+ 1505  cd ..
+ 1506  l
+ 1507  cd 
+ 1508  l
+ 1509  re
+ 1510  cd MINTIC
+ 1511  cd fundamentos-de-programacion
+ 1512  cd cliclo1
+ 1513  cd Reto-1-Inicio-de-sesion-captcha.
+ 1514  python3 reto1.py
+ 1515  /usr/bin/python3 /Volumes/Alejandra/REPOSITORIO/MINTIC/fundamentos-de-programacion/cliclo1/Reto-1-Inicio-de-sesion-captcha./reto1.py
+ 1516  5 cd /Volumes/Alejandra/REPOSITORIO/MINTIC/fundamentos-de-programacion/cliclo1/Reto-1-Inicio-de-sesion-captcha. ; /usr/bin/env /usr/bin/python3 /Users/lahincapie/.vscode/extensions/ms-python.python-2021.6.944021595/pythonFiles/lib/python/debugpy/launcher 52971 -- /Volumes/Alejandra/REPOSITORIO/MINTIC/fundamentos-de-programacion/cliclo1/Reto-1-Inicio-de-sesion-captcha./reto1.py 
+ 1517  python3 reto1.py
+ 1518  cd ..
+ 1519  re
+ 1520  l
+ 1521  cd HOLBERTON
+ 1522  l
+ 1523  cd holbertonschool-low_level_programming
+ 1524  l
+ 1525  mkdir 0x07-pointers_arrays_strings and cd 0x07-pointers_arrays_strings
+ 1526  l
+ 1527  cd 0x07-pointers_arrays_strings
+ 1528  touch 0-main.c 0-memset.c 1-main.c 1-memcpy.c 2-main.c 2-strchr.c 3-main.c 3-strspn.c 4-main.c 4-strpbrk.c 5-main.c 5-strstr.c 7-main.c 7-print_chessboard.c 8-main.c 8-print_diagsums.c
+ 1529  cd ..
+ 1530  cd MINTIC
+ 1531  cd fundamentos-de-programacion
+ 1532  cd cliclo1
+ 1533  cd Reto-1-Inicio-de-sesion-captcha.
+ 1534  python3 reto1.py
+ 1535  ..
+ 1536  cd ..
+ 1537  cd HOLBERTON
+ 1538  cd holbertonschool-low_level_programming
+ 1539  l
+ 1540  cd 0x07-pointers_arrays_strings
+ 1541  l
+ 1542  touc README.md
+ 1543  touch README.md
+ 1544  l 1>> cat
+ 1545  l
+ 1546  cat cat
+ 1547  l
+ 1548  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-memset.c -o 0-memset
+ 1549  ./0-memset 
+ 1550  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-memcpy.c -o 1-memcpy
+ 1551  ./1-memcpy
+ 1552  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-strchr.c -o 2-strchr
+ 1553  ./2-strchr
+ 1554  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-strspn.c -o 3-strspn
+ 1555  ./3-strspn
+ 1556  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-strpbrk.c -o 4-strpbrk
+ 1557  ./4-strpbrk
+ 1558  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-strstr.c -o 5-strstr
+ 1559  ./5-strstr 
+ 1560  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 7-main.c 7-print_chessboard.c -o 7-print_chessboard
+ 1561  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-main.c 8-print_diagsums.c -o 8-print_diagsums
+ 1562  ./8-print_diagsums 
+ 1563  git add .
+ 1564  git commit -m "Even more pointers, arrays and strings mandatory"
+ 1565  git push
+ 1566  betty 7-print_chessboard.c
+ 1567  git add .
+ 1568  git commit -m "7"
+ 1569  git push
+ 1570  git add .
+ 1571  git commit -m "100"
+ 1572  git push
+ 1573  git add .
+ 1574  git commit -m "0, 1, 2, 3, 4, 5"
+ 1575  git pull
+ 1576  cd ..
+ 1577  cd 0x06-pointers_arrays_strings
+ 1578  git add .
+ 1579  git commit -m "0, 1, 2, 3, 4, 5"
+ 1580  git push
+ 1581  git add . 
+ 1582  git commit -m "hola"
+ 1583  git push
+ 1584  cd ..
+ 1585  touch 0x0A-argc_argv
+ 1586  l
+ 1587  mkdir 0x0A-argc_argv
+ 1588  cd 0x0A-argc_argv
+ 1589  touch README.md 0-whatsmyname.c 1-args.c 2-args.c 3-mul.c 4-add.c
+ 1590  argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
+ 1591  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
+ 1592  gcc 0-whatsmyname.c -o mynameis
+ 1593  ./mynameis
+ 1594  l 1>> list
+ 1595  git add .
+ 1596  git commit -m "0-whatsmyname.c"
+ 1597  git push
+ 1598  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
+ 1599  ./mynameis 
+ 1600  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
+ 1601  ./mynameis 
+ 1602  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
+ 1603  ./mynameis 
+ 1604  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
+ 1605  ./mynameis 
+ 1606  git add .
+ 1607  git commit -m "0-whatsmyname.c"
+ 1608  git push
+ 1609  betty 0-whatsmyname.c
+ 1610  git add .
+ 1611  git commit -m "0-whatsmyname.c"
+ 1612  git push
+ 1613  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-args.c -o nargs
+ 1614  gcc 1-args.c -o nargs
+ 1615  ./nargs
+ 1616  ./nargs ghhj
+ 1617  ./nargs ghhj rtg vbg sf 
+ 1618  gcc 1-args.c -o nargs
+ 1619  ./nargs ghhj rtg vbg sf 
+ 1620  ./nargs ghhj rtg vbg sf gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-args.c -o nargs
+ 1621  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-args.c -o nargs
+ 1622  ./nargs 
+ 1623  ./nargs hello
+ 1624  ./nargs "hello, world"
+ 1625  ./nargs hello, world
+ 1626  git add . 
+ 1627  git commit - m "1-args.c"
+ 1628  git commit -m "1-args.c"
+ 1629  git push
+ 1630  betty 1-args.c
+ 1631  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-args.c -o nargs
+ 1632  ./nargs hello, world
+ 1633  git add . && commit -m "1-args.c"
+ 1634  git add . && git commit -m "1-args.c"
+ 1635  git push
+ 1636  betty 3-mul.c
+ 1637  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-args.c -o args
+ 1638  betty 3-mul.c
+ 1639  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-args.c -o args
+ 1640  betty 2-args.c
+ 1641  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-args.c -o args
+ 1642  ./args 
+ 1643  ./args You can do anything, but not everything.
+ 1644  git add . && git commit -m "2-args.c" && git push
+ 1645  man printf
+ 1646  betty 3-mul.c
+ 1647  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-mul.c -o mul
+ 1648  cd ..
+ 1649  cd 0x06-pointers_arrays_strings
+ 1650  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-strncat.c -o 1-strncat
+ 1651  cd ..
+ 1652  cd 0x0A-argc_argv
+ 1653  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-mul.c -o mul
+ 1654  ./mul 2 3
+ 1655  ./mul 2 -3
+ 1656  ./mul 2 0
+ 1657  ./mul 245 3245342
+ 1658  ./mul
+ 1659  betty 3-mul.c
+ 1660  git add . && git commit -m "3-mul.c" && git push
+ 1661  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-add.c -o add
+ 1662  betty 4-add.c
+ 1663  ./add 1 1
+ 1664  ./add 1 10 100 1000
+ 1665  ./add 1 2 3 e 4 5
+ 1666  ./add
+ 1667  git add . && git commit -m "4-add.c" && git push
+ 1668  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change
+ 1669  betty 100-change.c
+ 1670  ./change 
+ 1671  ./change 10
+ 1672  ./change 100
+ 1673  ./change 101
+ 1674  ./change 13
+ 1675  git add . && git commit -m "100-change.c" && git push
+ 1676  man ar
+ 1677  man ranlib
+ 1678  man nm
+ 1679  man ranlib
+ 1680  cd ..
+ 1681  mkdir 0x09-static_libraries && cd 0x09-static_libraries
+ 1682  touch libholberton.a holberton.h create_static_lib.sh 
+ 1683  gcc libholberton.c -o libholberton.o
+ 1684  gcc -c  libholberton.c -o libholberton.o
+ 1685  ar  rcs libholberton.a libholberton.o
+ 1686  git add . && git commit -m "libholberton.a, holberton.h" && git push
+ 1687  exit
+ 1688  re
+ 1689  cd HOLBERTON
+ 1690  l
+ 1691  cd holbertonschool-low_level_programming
+ 1692  mkdir 0x08-recursion
+ 1693  cd 0x08-recursion
+ 1694  touch 0-puts_recursion.c 1-print_rev_recursion.c 2-strlen_recursion.c 3-factorial.c 4-pow_recursion.c 5-sqrt_recursion.c 6-is_prime_number.c 0-main.c 1-main.c 2-main.c 3-main.c 4-main.c 5-main.c 6-main.c 
+ 1695  l
+ 1696  betty 0-puts_recursion.c
+ 1697  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+ 1698  ./0-puts_recursion 
+ 1699  betty 1-print_rev_recursion.c
+ 1700  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.
+ 1701  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1702  ./1-print_rev_recursion
+ 1703  l 1>> list
+ 1704  git add . && git commit -m "0-puts_recursion.c\n 1-print_rev_recursion.c" && git push 
+ 1705  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1706  ./1-print_rev_recursion
+ 1707  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1708  ./1-print_rev_recursion
+ 1709  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1710  ./1-print_rev_recursion
+ 1711  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1712  ./1-print_rev_recursion
+ 1713  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1714  ./1-print_rev_recursion
+ 1715  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1716  ./1-print_rev_recursion
+ 1717  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1718  ./1-print_rev_recursion
+ 1719  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1720  ./1-print_rev_recursion
+ 1721  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1722  ./1-print_rev_recursion
+ 1723  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1724  ./1-print_rev_recursion
+ 1725  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1726  ./1-print_rev_recursion
+ 1727  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1728  ./1-print_rev_recursion
+ 1729  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1730  ./1-print_rev_recursion
+ 1731  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1732  ./1-print_rev_recursion
+ 1733  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1734  ./1-print_rev_recursion
+ 1735  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1736  ./1-print_rev_recursion
+ 1737  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1738  ./1-print_rev_recursion
+ 1739  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 1-main.c 1-print_rev_recursion.c -o 1-print_rev_recursion
+ 1740  ./1-print_rev_recursion
+ 1741  git add . && git commit -m "1-print_rev_recursion.c" && git push
+ 1742  gcc -Wall -pedantic -Werror -Wextra -std=gnu89  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+ 1743  ./2-strlen_recursion 
+ 1744  gcc -Wall -pedantic -Werror -Wextra -std=gnu89  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+ 1745  ./2-strlen_recursion 
+ 1746  gcc -Wall -pedantic -Werror -Wextra -std=gnu89  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+ 1747  ./2-strlen_recursion 
+ 1748  gcc -Wall -pedantic -Werror -Wextra -std=gnu89  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+ 1749  ./2-strlen_recursion 
+ 1750  betty 2-strlen_recursion.c
+ 1751  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-factorial.c -o 3-factorial
+ 1752  ./3-factorial 
+ 1753  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-factorial.c -o 3-factorial
+ 1754  ./3-factorial 
+ 1755  gcc -Wall -pedantic -Werror -Wextra -std=gnu89  2-main.c 2-strlen_recursion.c -o 2-strlen_recursion
+ 1756  ./2-strlen_recursion 
+ 1757  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-factorial.c -o 3-factorial
+ 1758  ./3-factorial 
+ 1759  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-pow_recursion.c -o 4-pow
+ 1760  ./4-pow
+ 1761  git add . && git commit -m "3 4 5 " && git push
+ 1762  re
+ 1763  cd HOLBERTON
+ 1764  cd holbertonschool-low_level_programming
+ 1765  l
+ 1766  cd 0x08-recursion
+ 1767  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-factorial.c -o 3-factorial
+ 1768  ./3-factorial
+ 1769  betty 3-factorial.c
+ 1770  git add && git commit -m  "3-factorial.c" && git push
+ 1771  git add . && git commit -m  "3-factorial.c" && git push
+ 1772  man sqrt
+ 1773  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-sqrt_recursion.c -o 5-sqrt
+ 1774  /5-sqrt 
+ 1775  ./5-sqrt 
+ 1776  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-sqrt_recursion.c -o 5-sqrt
+ 1777  ./5-sqrt 
+ 1778  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-main.c 5-sqrt_recursion.c -o 5-sqrt
+ 1779  ./5-sqrt 
+ 1780  git add . && git commit -m "5-sqrt_recursion.c" && git push
+ 1781  git push
+ 1782  betty 5-sqrt_recursion.c
+ 1783  git add . && git commit -m "5-sqrt_recursion.c" && git push
+ 1784  history
