@@ -17,7 +17,7 @@ int _strlen(char *s)
 }
 
 /**
- * palindrome - Compare a string (First letter and the last)
+ * palin - Compare a string (First letter and the last)
  * @s: String
  * @len: Size of the string
  * @i: Position of the string
