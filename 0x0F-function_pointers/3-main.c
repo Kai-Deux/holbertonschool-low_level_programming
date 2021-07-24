@@ -22,9 +22,11 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(99);
 	}
+
 	c = atoi(argv[1]);
 	i = atoi(argv[3]);
 	p = get_op_func(argv[2]);
+
 	if (p == NULL)
 	{
 		printf("Error\n");
