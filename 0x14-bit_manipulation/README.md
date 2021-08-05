@@ -1,0 +1,22 @@
+total 176
+23057 drwxr-xr-x  21 lahincapie  admin   714B Aug  5 18:46 .
+12186 drwxr-xr-x  25 lahincapie  admin   850B Aug  5 13:29 ..
+23073 drwxr-xr-x   5 lahincapie  admin   170B Aug  5 13:32 .vscode
+23059 -rw-r--r--   1 lahincapie  admin   593B Aug  5 18:43 0-binary_to_uint.c
+23058 -rw-r--r--   1 lahincapie  admin   413B Aug  5 13:32 0-main.c
+23060 -rw-r--r--   1 lahincapie  admin   308B Aug  5 13:33 1-main.c
+23061 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 1-print_binary.c
+23071 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 100-get_endianness.c
+23070 -rw-r--r--   1 lahincapie  admin   188B Aug  5 13:34 100-main.c
+23072 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 101-password
+23063 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 2-get_bit.c
+23062 -rw-r--r--   1 lahincapie  admin   264B Aug  5 13:33 2-main.c
+23064 -rw-r--r--   1 lahincapie  admin   293B Aug  5 13:33 3-main.c
+23065 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 3-set_bit.c
+23067 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 4-clear_bit.c
+23066 -rw-r--r--   1 lahincapie  admin   300B Aug  5 13:34 4-main.c
+23069 -rw-r--r--   1 lahincapie  admin     0B Aug  5 13:32 5-flip_bits.c
+23068 -rw-r--r--   1 lahincapie  admin   328B Aug  5 13:34 5-main.c
+23145 -rw-r--r--   1 lahincapie  admin     0B Aug  5 18:46 README.md
+23093 -rwxr-xr-x   1 lahincapie  admin    48K Aug  5 18:43 a
+23077 -rw-r--r--   1 lahincapie  admin   411B Aug  5 13:40 main.h
