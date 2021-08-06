@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * set_bit - check the code
+ * clear_bit - check the code
  * @n: int.
  * @index: int
  * Return: the value of the bit at index index
