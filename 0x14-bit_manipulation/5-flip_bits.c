@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * lip_bits - check the code
+ * flip_bits - check the code
  * @n: int.
- * @index: int
- * Return: the value of the bit at index index
- * or -1 if an error occured.
+ * @m: int
+ * Return: res
  */
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
