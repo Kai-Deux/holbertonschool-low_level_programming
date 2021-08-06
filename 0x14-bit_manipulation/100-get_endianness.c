@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * flip_bits - check the code
- * @n: int.
- * @m: int
+ * get_endianness - check the code
  * Returns: 0 if big endian, 1 if little endian
  */
 
