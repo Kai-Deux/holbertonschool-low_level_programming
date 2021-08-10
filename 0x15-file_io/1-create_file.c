@@ -23,7 +23,7 @@ int create_file(const char *filename, char *text_content)
 	/*O_TRUNC= Write, starting at the beginning of the file.*/
 	/*600= permission to read and write to a file for the owner*/
 
-	o = open(filename, O_CREAT | O_RDWR | O_TRUNC, 600);
+	o = open(filename, O_CREAT | O_RDWR | O_TRUNC, 0600);
 	w = write(o, text_content, counter);
 
 	if (o == -1 || w == -1)
