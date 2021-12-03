@@ -9,29 +9,29 @@
 
 void print_all(const char *const format, ...)
 {
-	va_list valist;
+	va_list g;
 	unsigned int print, i = 0;
 	char *string;
 
 	while (format)
 	{
-		va_start(valist, format);
+		va_start(g, format);
 		while (format[i])
 		{
 			print = 1;
 			switch (format[i])
 			{
 			case 'c':
-				printf("%c", va_arg(valist, int));
+				printf("%c", va_arg(g, int));
 				break;
 			case 'i':
-				printf("%d", va_arg(valist, int));
+				printf("%d", va_arg(g, int));
 				break;
 			case 'f':
-				printf("%f", va_arg(valist, double));
+				printf("%f", va_arg(g, double));
 				break;
 			case 's':
-				string = va_arg(valist, char *);
+				string = va_arg(g, char *);
 				if (!string)
 					string = "(nil)";
 				printf("%s", string);
@@ -45,7 +45,7 @@ void print_all(const char *const format, ...)
 			i++;
 		}
 
-		va_end(valist);
+		va_end(g);
 		break;
 	}
 	printf("\n");

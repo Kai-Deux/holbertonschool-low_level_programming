@@ -11,7 +11,7 @@
       "environment": [],
       "program": "/Volumes/Alejandra/REPOSITORIO/HOLBERTON/holbertonschool-low_level_programming/0x15-file_io/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
-      "MIMode": "gdb",
+      "MIMode": "lldb",
       "miDebuggerPath": "/usr/bin/lldb",
       "externalConsole": false
     }
