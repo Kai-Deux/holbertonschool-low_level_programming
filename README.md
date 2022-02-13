@@ -1,34 +1,27 @@
-# holbertonschool-low_level_programming
-total 88
-12186 drwxr-xr-x  32 lahincapie  admin   1.1K Aug  9 18:47 .
- 1246 drwxr-xr-x  11 lahincapie  admin   374B Jul 27 10:41 ..
-14353 -rw-r--r--@  1 lahincapie  admin    32K Aug  4 00:03 .DS_Store
-12187 drwxr-xr-x  16 lahincapie  admin   544B Aug  5 23:12 .git
-23457 -rw-r--r--   1 lahincapie  admin     0B Aug  9 18:47 0-main.c
-23456 -rw-r--r--   1 lahincapie  admin     0B Aug  9 18:47 0-read_textfile.c
-12257 drwxr-xr-x  12 lahincapie  admin   408B Jun 17 22:10 0x00-hello_world
-12779 drwxr-xr-x  16 lahincapie  admin   544B Jun 18 13:55 0x01-variables_if_else_while
-13374 drwxr-xr-x  16 lahincapie  admin   544B Jun 22 10:55 0x02-functions_nested_loops
-14049 drwxr-xr-x   9 lahincapie  admin   306B Jun 24 22:23 0x03-debugging
-14350 drwxr-xr-x  19 lahincapie  admin   646B Jun 29 20:09 0x04-more_functions_nested_loops
-16120 drwxr-xr-x  17 lahincapie  admin   578B Jun 29 22:48 0x05-pointers_arrays_strings
-16602 drwxr-xr-x  23 lahincapie  admin   782B Jul  8 17:35 0x06-pointers_arrays_strings
-16960 drwxr-xr-x  30 lahincapie  admin   1.0K Jul  7 21:24 0x07-pointers_arrays_strings
-18032 drwxr-xr-x  32 lahincapie  admin   1.1K Jul 13 22:05 0x08-recursion
-17755 drwxr-xr-x  27 lahincapie  admin   918B Jul 15 17:36 0x09-static_libraries
-17413 drwxr-xr-x  15 lahincapie  admin   510B Jul  8 21:18 0x0A-argc_argv
-18639 drwxr-xr-x  24 lahincapie  admin   816B Jul 13 22:58 0x0B-malloc_free
-19357 drwxr-xr-x  12 lahincapie  admin   408B Jul 19 21:57 0x0D-preprocessor
-19557 drwxr-xr-x   8 lahincapie  admin   272B Jul 19 23:01 0x0E-structures_typedef
-19968 drwxr-xr-x  18 lahincapie  admin   612B Jul 23 21:43 0x0F-function_pointers
-20254 drwxr-xr-x  16 lahincapie  admin   544B Jul 23 22:11 0x10-variadic_functions
-22458 drwxr-xr-x  23 lahincapie  admin   782B Aug  3 13:44 0x12-singly_linked_lists
-22592 drwxr-xr-x  38 lahincapie  admin   1.3K Aug  3 23:33 0x13-more_singly_linked_lists
-23057 drwxr-xr-x  25 lahincapie  admin   850B Aug  5 22:09 0x14-bit_manipulation
-23455 drwxr-xr-x   2 lahincapie  admin    68B Aug  9 18:44 0x15-file_io
-23459 -rw-r--r--   1 lahincapie  admin     0B Aug  9 18:47 1-create_file.c
-23458 -rw-r--r--   1 lahincapie  admin     0B Aug  9 18:47 1-main.c
-23460 -rw-r--r--   1 lahincapie  admin     0B Aug  9 18:47 2-append_text_to_file.c
-23461 -rw-r--r--   1 lahincapie  admin     0B Aug  9 18:47 3-cp.c
-12252 -rw-r--r--   1 lahincapie  admin   1.0K Jun 17 18:51 LICENSE
-12253 -rw-r--r--   1 lahincapie  admin    40B Aug  9 18:56 README.md
+# Low-level programming & Algorithm
+
+## [0x00-hello_world](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x00-hello_world)
+## [0x01-variables_if_else_while](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x01-variables_if_else_while)
+## [0x02-functions_nested_loops](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x02-functions_nested_loops)
+## [0x03-debugging](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x03-debugging)
+## [0x04-more_functions_nested_loops](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x01-variables_if_else_while)
+## [0x05-pointers_arrays_strings](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x04-more_functions_nested_loops)
+## [0x06-pointers_arrays_strings](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x06-pointers_arrays_strings)
+## [0x07-pointers_arrays_strings](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x07-pointers_arrays_strings)
+## [0x08-recursion](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x08-recursion)
+## [0x09-static_libraries](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x09-static_libraries)
+## [0x0A-argc_argv](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x0A-argc_argv)
+## [0x0B-malloc_free](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x0B-malloc_free)
+## [0x0D-preprocessor](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x0D-preprocessor)
+## [0x0E-structures_typedef](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x0E-structures_typedef)
+## [0x0F-function_pointers](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x0F-function_pointers)
+## [0x10-variadic_functions](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x10-variadic_functions)
+## [0x12-singly_linked_lists](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x12-singly_linked_lists)
+## [0x13-more_singly_linked_lists](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x13-more_singly_linked_lists)
+## [0x14-bit_manipulation](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x14-bit_manipulation)
+## [0x15-file_io](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x15-file_io)
+## [0x17-doubly_linked_lists](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x17-doubly_linked_lists)
+## [0x18-dynamic_libraries](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x18-dynamic_libraries)
+## [0x1A-hash_tables](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x1A-hash_tables)
+## [0x1C-makefiles](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x1C-makefiles)
+## [0x1E-search_algorithms](https://github.com/lahincapie/holbertonschool-low_level_programming/tree/main/0x1E-search_algorithms)
